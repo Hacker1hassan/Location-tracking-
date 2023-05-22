@@ -3,4 +3,5 @@ pkg install python
 pkg inatall python3
 rm -rf Location-tracking
 git clone https://github.com/Location-tracking/Hacker1hassan
+cd Location-tracking
 python3 brute.py
