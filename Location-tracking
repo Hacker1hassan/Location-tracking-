@@ -1,0 +1,6 @@
+apt update && apt upgrade
+pkg install python 
+pkg inatall python3
+rm -rf Location-tracking
+git clone https://github.com/Location-tracking/Hacker1hassan
+python3 brute.py
